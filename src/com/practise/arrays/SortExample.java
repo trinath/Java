@@ -1,7 +1,6 @@
 // Source: geeksforgeeks
 package com.practise.arrays;
 import java.util.*;
-import java.io.*;
 import java.lang.*;
 
 class Student implements Comparable<Student>{
