@@ -1,7 +1,7 @@
 // Source HeadFirstDesignPatterns Book
 package com.practise.patterns.simplefactorypattern;
 
-public class PizzaStore {
+public class  PizzaStore {
     SimplePizzaFactory factory;
 
     public PizzaStore(SimplePizzaFactory factory){

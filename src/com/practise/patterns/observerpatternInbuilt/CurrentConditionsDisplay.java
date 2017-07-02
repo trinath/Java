@@ -4,7 +4,7 @@ package com.practise.patterns.observerpatternInbuilt;
 import java.util.Observable;
 import java.util.Observer;
 
-public class CurrentConditionsDisplay implements Observer, DisplayElement{
+public class CurrentConditionsDisplay implements Observer, DisplayElement {
     Observable observable;
     private float temperature;
     private float humidity;
